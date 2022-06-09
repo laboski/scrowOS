@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Crypto Converter",
+		"slug": "cryptcal",
+		"title": "Fiat to Crypto Price Converter",
+        "description": "A fiat to Crypto price converter that allows you to convert fiat to crypto and vice versa.",
+        "version": "1.0.0",
+        "industry": "Crypto",
+		"category": "FinanceApplication",
+		"github_url": "https://github.com/Circlepandaa/scrowOS/tools/@nameofdir",
+		"language": [
+			"HTML",
+			"CSS",
+			"JavaScript",
+            "jQuery"
+		]
+	},
+    {
+		"name": "Caption AI",
+		"slug": "captionai",
+		"title": "Caption Generator Powered by AI",
+        "description": "Provide tags and get auto generated captions for your social media post",
+        "version": "1.0.0",
+        "industry": "Social Commerce",
+		"category": "SocialNetworkingApplication",
+		"github_url": "https://github.com/Circlepandaa/scrowOS/tools/@nameofdir",
+		"language": [
+			"HTML",
+			"CSS",
+			"PHP",
+			"JavaScript",
+            "jQuery"
+		]
+	},
+    {
+		"name": "Image Optimizer",
+		"slug": "imageoptimizer",
+		"title": "Reduces the size of Image from MBs to KBs",
+        "description": "Allows user upload single or whole image for website or design optimization",
+        "version": "1.0.0",
+        "industry": "Social Commerce",
+		"category": "DesignApplication",
+		"github_url": "https://github.com/Circlepandaa/scrowOS/tools/@nameofdir",
+		"language": [
+			"HTML",
+			"CSS",
+			"PHP",
+			"JavaScript",
+            "jQuery"
+		]
+	},
+    {
+		"name": "BMS Calculator",
+		"slug": "bmscalculator",
+		"title": "Allows user to calculate Body Mass of by providing certain param",
+        "description": "Allows user to calculate Body Mass of by providing certain param",
+        "version": "1.0.0",
+        "industry": "Health",
+		"category": "HealthApplication",
+		"github_url": "https://github.com/Circlepandaa/scrowOS/tools/@nameofdir",
+		"language": [
+			"HTML",
+			"CSS",
+			"PHP",
+			"JavaScript",
+            "jQuery"
+		]
+	},
+    {
+		"name": "Equity Calculator",
+		"slug": "equitycalculator",
+		"title": "Allows user to calculate Body Mass of by providing certain param",
+        "description": "Allows user to calculate Body Mass of by providing certain param",
+        "version": "1.0.0",
+        "industry": "Financial",
+		"category": "BusinessApplication",
+		"github_url": "https://github.com/Circlepandaa/scrowOS/tools/@nameofdir",
+		"language": [
+			"HTML",
+			"CSS",
+			"PHP",
+			"JavaScript",
+            "jQuery"
+		]
+	}
+]
