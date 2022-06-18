@@ -50,9 +50,9 @@
 		]
 	},
     {
-		"name": "BMS Calculator",
-		"slug": "bmscalculator",
-		"title": "Allows user to calculate Body Mass of by providing certain param",
+		"name": "BMI Calculator",
+		"slug": "bmicalculator",
+		"title": "Allows user to calculate Body Mass Index of by providing certain param",
         "description": "Allows user to calculate Body Mass of by providing certain param",
         "version": "1.0.0",
         "industry": "Health",
