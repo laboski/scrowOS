@@ -83,4 +83,22 @@
             "jQuery"
 		]
 	}
+
+	{
+		"name": "Time Converter",
+		"slug": "timeconverterr",
+		"title": "Convert PST time to GMT time",
+        "description": "Allows user to convert PST time to GMT time",
+        "version": "1.0.0",
+        "industry": "Travel",
+		"category": "BusinessApplication",
+		"github_url": "https://github.com/Circlepandaa/scrowOS/tools/@nameofdir",
+		"language": [
+			"HTML",
+			"CSS",
+			"PHP",
+			"JavaScript",
+            "jQuery"
+		]
+	}
 ]
