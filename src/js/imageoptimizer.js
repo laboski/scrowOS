@@ -1,9 +1,9 @@
 class ImageOptimizer{
 
-	constructor(image, type. max = 400)
+	constructor(image, type, maxsize = 400)
 	{
 		this.image = image;
-		this.max   = max;
+		this.max   = maxsize;
 		this.type   = type;
 	}
 
